@@ -1,6 +1,6 @@
 # One Month Rails
 
-This is the pinteresting sample application for
-[*One MOnth Rails*][http://onemonthrails.com]
+Here's my one month rails app, world.
+[*One Month Rails*](http://onemonthrails.com)
 
-by [Mattan Griffel][http://petedavis.org]
+by [Pete Davis](http://www.petedavis.org)
